@@ -1,10 +1,3 @@
-"""
-SÉRIE DE EXERCÍCIOS 4
-
-Pretende implementar um catálogo de livros. Para tal, desenvolva uma
-classe (eg, Catalogo ou ListaLivros) especializada em gerir uma lista 
-de livros. [etc...consultar restante enunciado]
-"""
 
 from datetime import date
 from livro import Livro
